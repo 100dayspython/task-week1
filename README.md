@@ -1,7 +1,9 @@
-# task-week1
 
-## 100 Days Python Code Challenge
-####*Task Week 1*
+# 100 Days Python Code Challenge
+
+## task-week1
+
+## Date: 06-06-2020
 
 In a fashion designer mini store, there are ten fashion products with prices. A user intends to buy some items in the store. 
 
