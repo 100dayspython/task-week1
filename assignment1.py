@@ -1,3 +1,0 @@
-# Assignment One
-
-questions here.
